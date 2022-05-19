@@ -1,0 +1,64 @@
+20 20
+Lis 17 7 3 3
+Lis 19 9 3 3
+Lis 19 4 3 3
+Lis 15 4 6 3
+Lis 9 3 3 3
+Lis 15 18 3 3
+Wilk 19 14 9 3
+Wilk 6 5 9 3
+Wilk 5 2 9 3
+Wilk 16 8 9 3
+Wilk 10 15 9 3
+Wilk 1 12 9 3
+Wilk 5 3 9 3
+Czlowiek 12 10 5 3 0 0
+Owca 6 13 4 3
+Antylopa 7 14 4 3
+Antylopa 10 5 4 3
+Owca 8 0 4 3
+Antylopa 8 14 4 3
+Antylopa 9 13 4 3
+Zolw 17 18 2 3
+Zolw 4 8 2 3
+Zolw 4 1 2 3
+Zolw 15 13 2 3
+Trawa 11 9 0 3
+Wilcze jagody 18 14 99 3
+Barszcz Sosnowskiego 7 3 10 3
+Trawa 18 0 0 3
+Wilcze jagody 17 14 99 3
+Guarana 11 2 0 3
+Barszcz Sosnowskiego 1 8 10 3
+Trawa 18 18 0 3
+Mlecz 14 9 0 3
+Wilcze jagody 13 3 99 3
+Guarana 16 15 0 3
+Barszcz Sosnowskiego 2 9 10 3
+Trawa 16 4 0 3
+Wilcze jagody 17 19 99 3
+Guarana 13 7 0 3
+Barszcz Sosnowskiego 2 15 10 3
+Mlecz 12 11 0 3
+Wilcze jagody 2 5 99 3
+Guarana 12 16 0 3
+Barszcz Sosnowskiego 7 8 10 3
+Trawa 2 2 0 3
+Mlecz 15 2 0 3
+Wilcze jagody 8 15 99 3
+Guarana 19 10 0 3
+Barszcz Sosnowskiego 12 0 10 3
+Trawa 4 9 0 3
+Mlecz 16 17 0 3
+Wilcze jagody 0 10 99 3
+Guarana 3 6 0 3
+Barszcz Sosnowskiego 1 19 10 3
+Trawa 17 4 0 3
+Mlecz 11 18 0 3
+Wilcze jagody 12 6 99 3
+Guarana 11 12 0 3
+Barszcz Sosnowskiego 13 1 10 3
+Trawa 19 0 0 1
+Guarana 3 5 0 1
+Mlecz 13 10 0 0
+Mlecz 15 16 0 0
